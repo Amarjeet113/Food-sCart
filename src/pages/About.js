@@ -14,7 +14,7 @@ const About = () => {
         </div>
         <div className="col-md-4">
           <p className="text-justify mt-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
+           "Indulge your sweet tooth with our exclusive sweet cart app!" Ducimus
             officiis obcaecati esse tempore unde ratione, eveniet mollitia,
             perferendis eius temporibus dicta blanditiis doloremque explicabo
             quasi sunt vero optio cum aperiam vel consectetur! Laborum enim
