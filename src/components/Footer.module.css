@@ -1,0 +1,11 @@
+.footerBg {
+  background-color: #4CAF50; /* Custom green color */
+}
+
+.footerLink {
+  color: #FFFFFF;
+}
+
+.footerLink:hover {
+  color: #FFD700; /* Custom hover color */
+}
